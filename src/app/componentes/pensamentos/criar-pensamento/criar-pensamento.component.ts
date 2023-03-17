@@ -32,7 +32,7 @@ criarPensamento () {
 }
 
 cancelar(){
-
+  this.router.navigate(['/listarPensamento'])
 }
 
 }
