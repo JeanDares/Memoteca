@@ -4,30 +4,42 @@
       "conteudo": "Segundo teste de pensamento",
       "autoria": "Jean",
       "modelo": "modelo1",
-      "id": 5
+      "id": 5,
+      "favorito": false
     },
     {
       "conteudo": "testando função de editar",
       "autoria": "Jean teste",
       "modelo": "modelo2",
-      "id": 6
+      "id": 6,
+      "favorito": false
     },
     {
       "conteudo": "mudando leyout da pagina",
       "autoria": "jean",
       "modelo": "modelo1",
-      "id": 8
+      "id": 8,
+      "favorito": true
     },
     {
       "conteudo": "testando a criação de um  pensamento",
       "autoria": "Jean",
       "modelo": "modelo2",
-      "id": 9
+      "id": 9,
+      "favorito": false
     },
     {
       "conteudo": " teste",
       "autoria": "dcdsd",
       "modelo": "modelo1",
+      "id": 1,
+      "favorito": true
+    },
+    {
+      "conteudo": "wdwdwdwdwdwdwdwdwdwdwdwdwdwdwdwdwdwqdwqdqwdwqdqwdwqdwqdwqdqwdd",
+      "autoria": "wdwdwddw",
+      "modelo": "modelo2",
+      "favorito": true,
       "id": 10
     }
   ]
